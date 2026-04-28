@@ -1,0 +1,6 @@
+{
+  "name": "BudgetFlow",
+  "description": "A clean, modern personal finance tracker with transaction and subscription management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
