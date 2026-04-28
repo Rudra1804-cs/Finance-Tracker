@@ -51,9 +51,9 @@
         <button onclick="window.history.back()" class="btn btn-secondary">Back to Calendar</button>
       </header>
 
-      <div class="grid-cols-12" style="margin-top: 2rem;">
+      <div class="grid-cols-12" style="margin-top: 3rem; gap: 3rem;">
         <!-- Summary for the day -->
-        <div class="col-span-12 grid-cols-12" style="margin-bottom: 3rem;">
+        <div class="col-span-12 grid-cols-12" style="margin-bottom: 4rem; gap: 2rem;">
           <div class="glass-card col-span-4" style="padding: 1.5rem;">
             <p style="font-size: 0.75rem; font-weight: 700; color: var(--slate-400); text-transform: uppercase;">Total Spending</p>
             <p id="day-total" style="font-size: 1.5rem; font-weight: 800; color: var(--rose-500);">$0.00</p>
@@ -66,14 +66,14 @@
 
         <!-- Transactions and Subscriptions -->
         <div class="col-span-6">
-          <h3 style="font-weight: 800; margin-bottom: 1.5rem; color: var(--slate-700);">Transactions</h3>
+          <h3 style="font-weight: 800; margin-bottom: 2rem; color: var(--slate-700);">Transactions</h3>
           <div id="day-transactions-list" class="space-y-4">
             <!-- Injected by app.js -->
           </div>
         </div>
 
         <div class="col-span-6">
-          <h3 style="font-weight: 800; margin-bottom: 1.5rem; color: var(--slate-700);">Upcoming/Due Subscriptions</h3>
+          <h3 style="font-weight: 800; margin-bottom: 2rem; color: var(--slate-700);">Upcoming/Due Subscriptions</h3>
           <div id="day-subscriptions-list" class="space-y-4">
             <!-- Injected by app.js -->
           </div>

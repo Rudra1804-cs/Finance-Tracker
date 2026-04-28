@@ -1,20 +1,51 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 💸 BillFlow
 
-# Run and deploy your AI Studio app
+**BillFlow** is a modern, high-performance financial management dashboard designed to provide a crystal-clear view of your spending, income, and recurring subscriptions. With a focused glassmorphism aesthetic and an intuitive "Financial Calendar," managing your money has never felt this effortless.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/caa0207d-99d7-4e91-a732-239497edceb9
+## ✨ Key Features
 
-## Run Locally
+### 📊 Intelligent Dashboard
+Get an instant pulse on your finances with real-time balance tracking, recent activity logs, and high-level summaries of your income and expenses.
 
-**Prerequisites:**  Node.js
+### 📅 Financial Calendar
+A powerful, expanded calendar view that allows you to see exactly when bills are due and when income hits your account. Day-specific drill-downs provide a granular look at your daily financial footprint.
 
+### 💳 Subscription Management
+Never lose track of a trial or overpay for a forgotten service again. BillFlow categorizes and tracks your recurring payments, showing you upcoming charges at a glance.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 📈 Transaction Lifecycle
+Log, categorize, and review every transaction. Whether it's a coffee run or a monthly paycheck, BillFlow keeps your history organized and searchable.
+
+### 🌓 Clean Aesthetic
+Built with a sleek, dots-patterned background and glassmorphism UI components, providing a professional yet modern interface that's easy on the eyes.
+
+---
+
+## 🛠️ Technology Stack
+
+- **Frontend:** HTML5, CSS3 (Custom Variables & Grid Layouts)
+- **Logic:** Vanilla JavaScript (ES6+)
+- **Icons:** SVG-based Lucide-style iconography
+- **Animations:** Smooth CSS transitions and hover-state interactions
+
+---
+
+## 🚀 Getting Started
+
+1. **Dashboard:** View your overall financial health and top spending categories.
+2. **Transactions:** Record your daily expenses and income.
+3. **Subscriptions:** Add your recurring services to stay ahead of billing cycles.
+4. **Calendar:** Click the "Financial Calendar" at the bottom of the sidebar to switch to a time-based view of your money.
+5. **Day Drill-down:** Click any day in the calendar to see a specific breakdown for that date.
+
+---
+
+## 🎨 Design Philosophy
+
+BillFlow follows an **Architectural Honesty** approach—no fake animations or simulated loading. Every interaction is fast, every layout is responsive, and every piece of data is placed with intention to reduce financial anxiety.
+
+---
+
+*Built with precision and style.*
