@@ -47,5 +47,6 @@ Built with a sleek, dots-patterned background and glassmorphism UI components, p
 BillFlow follows an **Architectural Honesty** approach—no fake animations or simulated loading. Every interaction is fast, every layout is responsive, and every piece of data is placed with intention to reduce financial anxiety.
 
 ---
+View your app in AI Studio: https://ai.studio/apps/caa0207d-99d7-4e91-a732-239497edceb9
 
 *Built with precision and style.*
